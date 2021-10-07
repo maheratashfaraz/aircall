@@ -11,7 +11,7 @@ To run the test:
 
 ### API issues
 
-Two of the APIs didn't work as expected, however for the sake of implmenetaion, they are considered to be working correctly: 
+Two of the APIs didn't work as expected, however for the sake of implementation, they are considered to be working correctly: 
 
 - /calls/:id/archive:
 
